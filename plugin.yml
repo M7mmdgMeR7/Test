@@ -1,6 +1,6 @@
 name: Test
 version: 1.0
-api: [3.0.0]
+api: 3.0.0-ALPHA12
 author: Mohamedoo9
 main: Test\Main
 description: TEST!
